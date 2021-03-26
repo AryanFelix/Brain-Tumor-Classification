@@ -11,7 +11,8 @@ A Brain Tumor Classification and Segmentation tool to easily detect from Magneti
 * BraTS 2019
     
     BraTS has always been focusing on the evaluation of state-of-the-art methods for the segmentation of brain tumors in multimodal magnetic resonance imaging (MRI) scans.
-    `https://www.kaggle.com/aryanfelix/brats-2019-traintestvalid`
+    
+    https://www.kaggle.com/aryanfelix/brats-2019-traintestvalid
 
 ## License
 * MIT License
